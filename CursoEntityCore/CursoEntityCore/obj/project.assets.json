@@ -2815,11 +2815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\CursoEntity\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
+      "projectUniqueName": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
       "projectName": "CursoEntityCore",
-      "projectPath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\CursoEntity\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
+      "projectPath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
       "packagesPath": "C:\\Users\\josab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\CursoEntity\\CursoEntityCore\\CursoEntityCore\\obj\\",
+      "outputPath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

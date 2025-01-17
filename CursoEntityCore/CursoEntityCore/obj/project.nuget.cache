@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7z7yF3od51U=",
+  "dgSpecHash": "fT1oL665B90=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\CursoEntity\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
+  "projectFilePath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\CursoEntityCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josab\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\josab\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
