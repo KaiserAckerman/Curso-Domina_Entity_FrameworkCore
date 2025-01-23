@@ -4,6 +4,7 @@ using CursoEntityCore.Datos;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CursoEntityCore.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD")]
+    partial class RelacionMuchosAMuchosArticuloEtiquetaBD
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -65,9 +68,17 @@ namespace CursoEntityCore.Migrations
                     b.Property<int>("Articulo_Id")
                         .HasColumnType("int");
 
+                    b.Property<int>("Articulo_Id1")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Etiqueta_Id1")
+                        .HasColumnType("int");
+
                     b.HasKey("Etiqueta_Id", "Articulo_Id");
 
-                    b.HasIndex("Articulo_Id");
+                    b.HasIndex("Articulo_Id1");
+
+                    b.HasIndex("Etiqueta_Id1");
 
                     b.ToTable("ArticuloEtiqueta");
                 });
@@ -180,13 +191,13 @@ namespace CursoEntityCore.Migrations
                 {
                     b.HasOne("CursoEntityCore.Models.Articulo", "Articulo")
                         .WithMany("ArticuloEtiqueta")
-                        .HasForeignKey("Articulo_Id")
+                        .HasForeignKey("Articulo_Id1")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("CursoEntityCore.Models.Etiqueta", "Etiqueta")
                         .WithMany("ArticuloEtiqueta")
-                        .HasForeignKey("Etiqueta_Id")
+                        .HasForeignKey("Etiqueta_Id1")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

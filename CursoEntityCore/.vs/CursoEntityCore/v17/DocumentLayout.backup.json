@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123062653_CorreccionRelacionMuchosAMuchos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123062653_CorreccionRelacionMuchosAMuchos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\articuloetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\articuloetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\etiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\etiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123032342_CambioCampoFechaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123032342_CambioCampoFechaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123061457_CreacionTablaEtiquetaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123061457_CreacionTablaEtiquetaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123060619_RelacionUnoAMuchosCategoriaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123060619_RelacionUnoAMuchosCategoriaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\detalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\detalleusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123055856_RelacionUnoAunoUsuarioDetalleUsuarioBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123055856_RelacionUnoAunoUsuarioDetalleUsuarioBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123055458_CreadaTablaDetalleUsuarioBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123055458_CreadaTablaDetalleUsuarioBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123054851_LlaveForaneaCategoriaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123054851_LlaveForaneaCategoriaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123054253_RelacionCategoriaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123054253_RelacionCategoriaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123032342_CambioCampoFechaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250123032342_CambioCampoFechaArticuloBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +98,150 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250123062653_CorreccionRelacionMuchosAMuchos.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123062653_CorreccionRelacionMuchosAMuchos.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123062653_CorreccionRelacionMuchosAMuchos.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123062653_CorreccionRelacionMuchosAMuchos.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123062653_CorreccionRelacionMuchosAMuchos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:26:53.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123062550_RelacionMuchosAMuchosArticuloEtiquetaBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:25:50.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloEtiqueta.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\ArticuloEtiqueta.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Models\\ArticuloEtiqueta.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\ArticuloEtiqueta.cs",
+              "RelativeToolTip": "CursoEntityCore\\Models\\ArticuloEtiqueta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:15:58.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250123061457_CreacionTablaEtiquetaBD.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123061457_CreacionTablaEtiquetaBD.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123061457_CreacionTablaEtiquetaBD.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123061457_CreacionTablaEtiquetaBD.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123061457_CreacionTablaEtiquetaBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:14:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Etiqueta.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Etiqueta.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Models\\Etiqueta.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Etiqueta.cs",
+              "RelativeToolTip": "CursoEntityCore\\Models\\Etiqueta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:08:45.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250123060619_RelacionUnoAMuchosCategoriaArticuloBD.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123060619_RelacionUnoAMuchosCategoriaArticuloBD.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123060619_RelacionUnoAMuchosCategoriaArticuloBD.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123060619_RelacionUnoAMuchosCategoriaArticuloBD.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123060619_RelacionUnoAMuchosCategoriaArticuloBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:06:19.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250123055856_RelacionUnoAunoUsuarioDetalleUsuarioBD.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123055856_RelacionUnoAunoUsuarioDetalleUsuarioBD.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123055856_RelacionUnoAunoUsuarioDetalleUsuarioBD.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123055856_RelacionUnoAunoUsuarioDetalleUsuarioBD.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123055856_RelacionUnoAunoUsuarioDetalleUsuarioBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:58:56.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250123055458_CreadaTablaDetalleUsuarioBD.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123055458_CreadaTablaDetalleUsuarioBD.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123055458_CreadaTablaDetalleUsuarioBD.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123055458_CreadaTablaDetalleUsuarioBD.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123055458_CreadaTablaDetalleUsuarioBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:54:58.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\DetalleUsuario.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Models\\DetalleUsuario.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\DetalleUsuario.cs",
+              "RelativeToolTip": "CursoEntityCore\\Models\\DetalleUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:51:28.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250123054851_LlaveForaneaCategoriaArticuloBD.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123054851_LlaveForaneaCategoriaArticuloBD.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123054851_LlaveForaneaCategoriaArticuloBD.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123054851_LlaveForaneaCategoriaArticuloBD.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123054851_LlaveForaneaCategoriaArticuloBD.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:48:51.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250123054253_RelacionCategoriaArticuloBD.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123054253_RelacionCategoriaArticuloBD.cs",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123054253_RelacionCategoriaArticuloBD.cs",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123054253_RelacionCategoriaArticuloBD.cs",
+              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250123054253_RelacionCategoriaArticuloBD.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:42:54.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "20250123032342_CambioCampoFechaArticuloBD.cs",
               "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250123032342_CambioCampoFechaArticuloBD.cs",
               "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250123032342_CambioCampoFechaArticuloBD.cs",
@@ -67,53 +254,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "CursoEntityCore\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Usuario.cs",
               "RelativeToolTip": "CursoEntityCore\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T00:29:36.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Articulo.cs",
               "RelativeDocumentMoniker": "CursoEntityCore\\Models\\Articulo.cs",
               "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Articulo.cs",
               "RelativeToolTip": "CursoEntityCore\\Models\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:37:53.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "CursoEntityCore\\Models\\Categoria.cs",
               "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Categoria.cs",
               "RelativeToolTip": "CursoEntityCore\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T15:40:56.454Z"
+              "WhenOpened": "2025-01-17T15:40:56.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Datos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CursoEntityCore\\Datos\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Datos\\ApplicationDbContext.cs",
               "RelativeToolTip": "CursoEntityCore\\Datos\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:59:54.706Z"
+              "WhenOpened": "2025-01-16T17:59:54.706Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,14 @@ namespace CursoEntityCore.Datos
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Usuario> Usuario { get; set; }
         public DbSet<Articulo> Articulo { get; set; }
+        public DbSet<DetalleUsuario> DetalleUsuario { get; set; }
+        public DbSet<Etiqueta> Etiqueta { get; set; }
 
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<ArticuloEtiqueta>().HasKey(ae => new {ae.Etiqueta_Id,ae.Articulo_Id});
+        }
         //Cuando crear migraciones (Buenas practicas)
         //1-Se crea una nueva clase(tabla en la Bd)
         //2-Cuando agrege una nueva propiedad(Crear un campo nuevo en la Bd)
