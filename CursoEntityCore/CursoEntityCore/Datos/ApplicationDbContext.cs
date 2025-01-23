@@ -13,6 +13,7 @@ namespace CursoEntityCore.Datos
         //Escribir los modelos
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Usuario> Usuario { get; set; }
+        public DbSet<Articulo> Articulo { get; set; }
 
         //Cuando crear migraciones (Buenas practicas)
         //1-Se crea una nueva clase(tabla en la Bd)
