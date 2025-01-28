@@ -21,6 +21,13 @@ namespace CursoEntityCore.Datos
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<ArticuloEtiqueta>().HasKey(ae => new {ae.Etiqueta_Id,ae.Articulo_Id});
+
+            //Siembra de datos se hace en este metodo
+            var categoria2 = new Categoria() { Categoria_Id = 182, Nombre = "Categoria 2", FechaCreacion = new DateTime(2025, 11, 28), Activo = true};
+            var categoria5 = new Categoria() { Categoria_Id = 183, Nombre = "Categoria 5", FechaCreacion = new DateTime(2025, 11, 29), Activo = false };
+
+            modelBuilder.Entity<Categoria>().HasData(new Categoria[] { categoria5 });
+            base.OnModelCreating(modelBuilder);
         }
         //Cuando crear migraciones (Buenas practicas)
         //1-Se crea una nueva clase(tabla en la Bd)

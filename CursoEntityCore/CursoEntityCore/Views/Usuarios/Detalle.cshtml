@@ -1,0 +1,79 @@
+﻿@model CursoEntityCore.Models.Usuario
+@{
+    ViewData["Title"] = "Detalle usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<div class="container">
+    <h3 class="text-center">Detalle Usuario</h3>
+    <form method="post" asp-action="AgregarDetalle">
+        <!--Importante para editar-->
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="DetalleUsuario.DetalleUsuario_Id" />
+
+        <div class="row justify-content-center">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="col-12 col-md-8 mt-4">
+                <div class="row mb-3">
+                    <div class="col-4">
+                        <label asp-for="Nombre"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Nombre" class="form-control" disabled/>
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <label asp-for="DetalleUsuario.Cedula"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="DetalleUsuario.Cedula" class="form-control" />
+                        <span asp-validation-for="DetalleUsuario.Cedula" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <label asp-for="DetalleUsuario.Deporte"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="DetalleUsuario.Deporte" class="form-control" />
+                        <span asp-validation-for="DetalleUsuario.Deporte" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <label asp-for="DetalleUsuario.Mascota"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="DetalleUsuario.Mascota" class="form-control" />
+                        <span asp-validation-for="DetalleUsuario.Mascota" class="text-danger"></span>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+
+        <div class="row justify-content-between align-items-center mt-4">
+            <div class="col-4 text-start">
+                <a asp-action="Index" class="btn btn-link">Volver a lista</a>
+            </div>
+            <div class="col-4 text-end">
+                <button type="submit" class="btn btn-primary form-control">Crear Detalle Usuario</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -28,6 +28,46 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Articulos/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Articulos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Articulos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Categorias/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Categorias/editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xlZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Categorias/VistaCrearMultipleOpcionFormulario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xWaXN0YUNyZWFyTXVsdGlwbGVPcGNpb25Gb3JtdWxhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Etiquetas/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Etiquetas/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Etiquetas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +82,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Usuarios/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Usuarios/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Usuarios/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/josab/OneDrive/Documentos/Github/Curso-Domina_Entity_FrameworkCore/CursoEntityCore/CursoEntityCore/Views/_ViewImports.cshtml]

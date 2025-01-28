@@ -1,0 +1,64 @@
+﻿@model IEnumerable<CursoEntityCore.Models.Categoria>
+@{
+    ViewData["Title"] = "Lista de categorias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-4">
+        <h3>
+            Lista de categorias
+        </h3>
+    </div>
+    <div class="col-3">
+        <a asp-action="Crear" class="btn btn-primary form-control">Crear categoria</a>
+    </div>
+    <div class="col-5">
+
+        <a asp-action="CrearMultipleOpcion2" class="btn btn-secondary form-control">Crear Multiple (2 categorias)</a>
+        <br />
+        <br />
+        <a asp-action="CrearMultipleOpcion5" class="btn btn-secondary form-control">Crear Multiple (5 categorias)</a>
+        <br />
+        <br />
+        <a asp-action="VistaCrearMultipleOpcionFormulario" class="btn btn-secondary form-control">Crear Multiples Categorias en formulario</a>
+        <br />
+        <br />
+        <a asp-action="BorrarMultiple2" class="btn btn-danger form-control">Borrar Multiple (2 Categorias)</a>
+        <br />
+        <br />
+        <a asp-action="BorrarMultiple5" class="btn btn-danger form-control">Borrar Multiple (5 Categorias)</a>
+    </div>
+
+</div>
+
+<div>
+    @if (Model.Count()>0)
+    {
+        <table class="table table-striped border">
+            <tr>
+                <th>Nombre de categoria</th>
+                <th>Estado</th>
+                <th>Fecha de creacion</th>
+<th></th>
+            </tr>
+            @foreach (var categoria in Model){
+                <tr>
+                    <td>@categoria.Nombre</td>
+                    <td>@categoria.Activo</td>
+                    <td>@categoria.FechaCreacion</td>
+                    <td>
+                        <a class="btn btn-primary text-white" asp-action="Editar" asp-route-Id ="@categoria.Categoria_Id">Editar</a>
+                        <a class="btn btn-danger text-white" asp-action="Borrar" asp-route-Id="@categoria.Categoria_Id">Borrar</a>
+                    </td>
+                </tr>
+            }
+        </table>  
+    }
+    else
+    {
+        <p>
+            No hay categorias
+        </p>
+    }
+</div>

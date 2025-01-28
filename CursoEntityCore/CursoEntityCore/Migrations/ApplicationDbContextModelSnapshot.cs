@@ -80,6 +80,12 @@ namespace CursoEntityCore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Categoria_Id"));
 
+                    b.Property<bool>("Activo")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("FechaCreacion")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("Nombre")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -87,6 +93,15 @@ namespace CursoEntityCore.Migrations
                     b.HasKey("Categoria_Id");
 
                     b.ToTable("Categoria");
+
+                    b.HasData(
+                        new
+                        {
+                            Categoria_Id = 183,
+                            Activo = false,
+                            FechaCreacion = new DateTime(2025, 11, 29, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Nombre = "Categoria 5"
+                        });
                 });
 
             modelBuilder.Entity("CursoEntityCore.Models.DetalleUsuario", b =>
@@ -102,11 +117,9 @@ namespace CursoEntityCore.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Deporte")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Mascota")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("DetalleUsuario_Id");
@@ -126,7 +139,6 @@ namespace CursoEntityCore.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Titulo")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Etiqueta_Id");
@@ -142,25 +154,23 @@ namespace CursoEntityCore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("DetalleUsuario_Id")
+                    b.Property<int?>("DetalleUsuario_Id")
                         .HasColumnType("int");
 
                     b.Property<string>("Direccion")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nombre")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.HasIndex("DetalleUsuario_Id")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[DetalleUsuario_Id] IS NOT NULL");
 
                     b.ToTable("Usuario");
                 });
@@ -199,9 +209,7 @@ namespace CursoEntityCore.Migrations
                 {
                     b.HasOne("CursoEntityCore.Models.DetalleUsuario", "DetalleUsuario")
                         .WithOne("Usuario")
-                        .HasForeignKey("CursoEntityCore.Models.Usuario", "DetalleUsuario_Id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CursoEntityCore.Models.Usuario", "DetalleUsuario_Id");
 
                     b.Navigation("DetalleUsuario");
                 });
@@ -218,8 +226,7 @@ namespace CursoEntityCore.Migrations
 
             modelBuilder.Entity("CursoEntityCore.Models.DetalleUsuario", b =>
                 {
-                    b.Navigation("Usuario")
-                        .IsRequired();
+                    b.Navigation("Usuario");
                 });
 
             modelBuilder.Entity("CursoEntityCore.Models.Etiqueta", b =>
