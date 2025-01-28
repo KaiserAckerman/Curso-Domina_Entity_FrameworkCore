@@ -3,96 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\etiquetas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\etiquetas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\controllers\\etiquetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\controllers\\etiquetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\etiquetas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\etiquetas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\usuarios\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\usuarios\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\usuarios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\usuarios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\categorias\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\categorias\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\articulos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\articulos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\usuarios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\usuarios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250128033811_LlaveForaneaUsuarioDetalleUsuarioNullBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoEntityCore\\Migrations\\20250128033811_LlaveForaneaUsuarioDetalleUsuarioNullBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\articulos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\articulos\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\viewmodels\\articulocategoriavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\viewmodels\\articulocategoriavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|c:\\users\\josab\\onedrive\\documentos\\github\\curso-domina_entity_frameworkcore\\cursoentitycore\\cursoentitycore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D330A6B2-93AF-4D16-852E-79805184BA01}|CursoEntityCore\\CursoEntityCore.csproj|solutionrelative:cursoentitycore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,299 +54,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Etiquetas\\Crear.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Etiquetas\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Etiquetas\\Crear.cshtml*",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Etiquetas\\Crear.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T04:58:14.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Etiquetas\\Index.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Etiquetas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Etiquetas\\Index.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Etiquetas\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T04:53:03.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EtiquetasController.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\EtiquetasController.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Controllers\\EtiquetasController.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\EtiquetasController.cs",
-              "RelativeToolTip": "CursoEntityCore\\Controllers\\EtiquetasController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:49:16.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Detalle.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Usuarios\\Detalle.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Detalle.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Usuarios\\Detalle.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwD0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T04:02:17.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Editar.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Usuarios\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Editar.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Usuarios\\Editar.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T03:47:30.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250128033811_LlaveForaneaUsuarioDetalleUsuarioNullBD.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250128033811_LlaveForaneaUsuarioDetalleUsuarioNullBD.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Migrations\\20250128033811_LlaveForaneaUsuarioDetalleUsuarioNullBD.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Migrations\\20250128033811_LlaveForaneaUsuarioDetalleUsuarioNullBD.cs",
-              "RelativeToolTip": "CursoEntityCore\\Migrations\\20250128033811_LlaveForaneaUsuarioDetalleUsuarioNullBD.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T03:38:12.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Crear.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Usuarios\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Crear.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Usuarios\\Crear.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T03:25:38.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T02:50:57.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T02:50:55.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Index.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Usuarios\\Index.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T02:38:14.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "CursoEntityCore\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAIwGUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T02:36:53.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Models\\Usuario.cs",
-              "RelativeToolTip": "CursoEntityCore\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T02:36:15.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\editar.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Categorias\\editar.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\editar.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Categorias\\editar.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAkwD8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T17:01:48.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Articulos\\Editar.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Articulos\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Articulos\\Editar.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Articulos\\Editar.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T17:00:50.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\Crear.cshtml",
               "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Categorias\\Crear.cshtml",
               "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\Crear.cshtml",
               "RelativeToolTip": "CursoEntityCore\\Views\\Categorias\\Crear.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T06:06:31.546Z",
+              "WhenOpened": "2025-01-28T05:22:20.976Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Articulos\\Crear.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Articulos\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Articulos\\Crear.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Articulos\\Crear.cshtml",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T06:05:47.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ArticuloCategoriaVM.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\ViewModels\\ArticuloCategoriaVM.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\ViewModels\\ArticuloCategoriaVM.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\ViewModels\\ArticuloCategoriaVM.cs",
-              "RelativeToolTip": "CursoEntityCore\\ViewModels\\ArticuloCategoriaVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T05:59:33.449Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\editar.cshtml",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Categorias\\editar.cshtml",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\editar.cshtml",
+              "RelativeToolTip": "CursoEntityCore\\Views\\Categorias\\editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T05:22:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CursoEntityCore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T05:20:15.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "CursoEntityCore\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T05:20:10.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCEAAAB9AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "CursoEntityCore\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwCsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-27T00:35:46.165Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\Index.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Categorias\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Categorias\\Index.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Categorias\\Index.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwD8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T00:28:51.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Articulos\\Index.cshtml",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Views\\Articulos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Views\\Articulos\\Index.cshtml",
-              "RelativeToolTip": "CursoEntityCore\\Views\\Articulos\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T00:28:41.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "CursoEntityCore\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T00:26:16.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ArticulosController.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\ArticulosController.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Controllers\\ArticulosController.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Controllers\\ArticulosController.cs",
-              "RelativeToolTip": "CursoEntityCore\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAACEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T00:25:54.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Datos\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CursoEntityCore\\Datos\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\josab\\OneDrive\\Documentos\\Github\\Curso-Domina_Entity_FrameworkCore\\CursoEntityCore\\CursoEntityCore\\Datos\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CursoEntityCore\\Datos\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:59:54.706Z"
             }
           ]
         }
