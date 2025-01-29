@@ -7,16 +7,11 @@ namespace CursoEntityCore.Models
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
-        //[RegularExpression(@"^[\w -\._\+%] +@(?:[\w -]+\.)+[\w]{2,6}$", ErrorMessage = "Por favor ingrese un email correcto")]
-        [DataType(DataType.EmailAddress)]
         [EmailAddress(ErrorMessage = "Por favor ingrese un email correcto")]
         public string Email { get; set; }
         [Display(Name = "Direccion del usuario")]
         public string Direccion  { get; set; }
-
-        [NotMapped]
         public int Edad { get; set; }
-        [ForeignKey("DetalleUsuario")]
         public int? DetalleUsuario_Id { get; set; }
         public DetalleUsuario DetalleUsuario { get; set; }
     }
