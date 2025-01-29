@@ -32,7 +32,7 @@ namespace CursoEntityCore.Controllers
             //}
 
             //Opcion 4: Carga Diligente(Eager Loading)
-            List<Articulo>listaArticulos = _Context.Articulo.Include(c => c.Categoria).ToList();
+            List<Articulo> listaArticulos = _Context.Articulo.Include(c => c.Categoria).ToList();
             return View(listaArticulos);
         }
 
@@ -40,10 +40,10 @@ namespace CursoEntityCore.Controllers
         public IActionResult Crear()
         {
             ArticuloCategoriaVM articuloCategorias = new ArticuloCategoriaVM();
-            articuloCategorias.ListaCategorias = _Context.Categoria.Select(i => new SelectListItem 
+            articuloCategorias.ListaCategorias = _Context.Categoria.Select(i => new SelectListItem
             {
-             Text = i.Nombre,
-             Value = i.Categoria_Id.ToString()
+                Text = i.Nombre,
+                Value = i.Categoria_Id.ToString()
             });
             return View(articuloCategorias);
         }
@@ -66,7 +66,7 @@ namespace CursoEntityCore.Controllers
                 Value = i.Categoria_Id.ToString()
             });
             return View(articuloCategorias);
-            
+
         }
         [HttpGet]
         public IActionResult Editar(int? id)
@@ -115,5 +115,66 @@ namespace CursoEntityCore.Controllers
             _Context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
+        [HttpGet]
+        public IActionResult AdministrarEtiquetas(int id)
+        {
+            ArticuloEtiquetaVM articuloEtiquetas = new ArticuloEtiquetaVM
+            {
+                ListaArticuloEtiquetas = _Context.ArticuloEtiqueta.Include(e => e.Etiqueta).Include(a => a.Articulo)
+                .Where(a => a.Articulo_Id == id),
+
+                ArticuloEtiqueta = new ArticuloEtiqueta()
+                {
+                    Articulo_Id = id
+                },
+                Articulo = _Context.Articulo.FirstOrDefault(a=>a.Articulo_Id == id)
+            };
+
+            List<int> listaTemporalEtiquetasArticulo = articuloEtiquetas.ListaArticuloEtiquetas.Select(e => e.Etiqueta_Id).ToList();
+            //Obtener todas las etiquetas cuyos id's no esten en la  listaTemporalEtiquetasArticulo
+            //Crear un NOT IN usando LINQ
+            var listaTemporal = _Context.Etiqueta.Where(e=> !listaTemporalEtiquetasArticulo.Contains(e.Etiqueta_Id)).ToList();
+
+            //Crear lista de etiquetas para el dropdown
+            articuloEtiquetas.ListaEtiquetas = listaTemporal.Select(i => new SelectListItem
+            {
+                Text = i.Titulo,
+                Value = i.Etiqueta_Id.ToString()
+            });
+
+            return View(articuloEtiquetas);
+        }
+
+        [HttpPost]
+        public IActionResult AdministrarEtiquetas(ArticuloEtiquetaVM articuloEtiquetas)
+        {
+            if (articuloEtiquetas.ArticuloEtiqueta.Articulo_Id !=0 && articuloEtiquetas.ArticuloEtiqueta.Etiqueta_Id != 0)
+            {
+                _Context.ArticuloEtiqueta.Add(articuloEtiquetas.ArticuloEtiqueta);
+                _Context.SaveChanges();
+            }
+            return RedirectToAction(nameof(AdministrarEtiquetas), new
+            {
+                @id = articuloEtiquetas.ArticuloEtiqueta.Articulo_Id
+            });
+        }
+
+
+        [HttpPost]
+        public IActionResult EliminarEtiquetas(int idEtiqueta, ArticuloEtiquetaVM articuloEtiquetas)
+        {
+            int idArticulo = articuloEtiquetas.Articulo.Articulo_Id;
+            ArticuloEtiqueta articuloEtiqueta = _Context.ArticuloEtiqueta.FirstOrDefault(
+                    u=>u.Etiqueta_Id == idEtiqueta && u.Articulo_Id == idArticulo
+                );
+                _Context.ArticuloEtiqueta.Remove(articuloEtiqueta);
+                _Context.SaveChanges();
+            
+            return RedirectToAction(nameof(AdministrarEtiquetas), new
+            {
+                @id = idArticulo
+            });
+        }
     }
+
 }

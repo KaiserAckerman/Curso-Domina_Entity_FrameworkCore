@@ -16,6 +16,8 @@ namespace CursoEntityCore.Datos
         public DbSet<Articulo> Articulo { get; set; }
         public DbSet<DetalleUsuario> DetalleUsuario { get; set; }
         public DbSet<Etiqueta> Etiqueta { get; set; }
+        //Agregamos dbset para la tabla de relacion ArticuloEtiqueta
+        public DbSet<ArticuloEtiqueta> ArticuloEtiqueta { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
