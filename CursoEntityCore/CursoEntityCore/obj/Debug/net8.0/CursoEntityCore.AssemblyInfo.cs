@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CursoEntityCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b304cbfdaf680756e7003934d912c18034b0a4ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+262a2535b0b82a0bbb3e0adb93070d8187c1c24e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursoEntityCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursoEntityCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
