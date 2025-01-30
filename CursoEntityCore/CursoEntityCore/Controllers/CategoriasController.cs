@@ -230,5 +230,13 @@ namespace CursoEntityCore.Controllers
             _Context.Attach(datoUsuario);
             _Context.SaveChanges();
         }
+
+        //Crear el metodo para llamar a la vista SQL
+        public void ObtenerCategoriasDesdeVistaSQL() 
+        { 
+            var usarVista1=_Context.CategoriaDesdeVista.ToList();
+            var usarVista2 = _Context.CategoriaDesdeVista.FirstOrDefault();
+            var usarVista3 = _Context.CategoriaDesdeVista.Where(c=>c.Activo == true);
+        }
     }
 }
