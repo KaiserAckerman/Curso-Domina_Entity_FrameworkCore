@@ -238,5 +238,19 @@ namespace CursoEntityCore.Controllers
             var usarVista2 = _Context.CategoriaDesdeVista.FirstOrDefault();
             var usarVista3 = _Context.CategoriaDesdeVista.Where(c=>c.Activo == true);
         }
+
+        public void ConsultasFromSql()
+        {
+            //Consulta directa es menos segura
+            var usuario = _Context.Usuario.FromSqlRaw("select * from dbo.Usuario").ToList();
+            //Consulta con parametros para evitar inyeccion sql
+
+            var idUsuario = 1;
+            var usuario2 = _Context.Usuario.FromSqlInterpolated($"select * from dbo.Usuario where Id ={idUsuario}").ToList();
+
+            var usuarioPorProcedimiento = _Context.Usuario.FromSqlInterpolated($"EXEC dbo.SpObtenerUsuarioId {idUsuario}").ToList();
+        }
+
+        
     }
 }
